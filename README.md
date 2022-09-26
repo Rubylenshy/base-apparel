@@ -14,7 +14,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Live Site URL: [Base Apparel coming soon page]()
+- Live Site URL: [Base Apparel coming soon page](https://rubylenshy.github.io/base-apparel/)
 
 ## Author
 
